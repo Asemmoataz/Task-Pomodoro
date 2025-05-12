@@ -51,21 +51,3 @@ startTimer()
     })
     
 // document.addEventListener("DOMContentLoaded",updateDisplay)
-
-
-
-
-
-
-
-
-
-
-
-
-    //  const original = "PAUSE"
-    // if (statusWord.innerHTML === original) {
-    //     statusWord.innerHTML = "RUNNING"
-    // }else{
-    //     statusWord.innerHTML = "PAUSE"
-    // }
